@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Anderson Carvalho :raising_hand_man:
 
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com%2Fin%2Fanderson-santos-carvalho)<!--![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)-->
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-santos-carvalho/)<!--![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonsancar&show_icons=true&theme=chartreuse-dark)
 
