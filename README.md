@@ -9,7 +9,7 @@ Atualmente estou trabalhando com foco em monitoramento, observabilidade e desenv
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://assets.zabbix.com/dist/images/logo.fd87efa6da9bed3fd8c9.svg"width="106.75" height="28" />
   <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://mc-30acf3eb-3568-4f77-bd15-8645-cdn-endpoint.azureedge.net/-/media/project/extreme/design/logo.svg?rev=a03fb9205bec4cadbe609068bb3de2e6"width="106.75" height="28" background-color: "#FFFF" />
+  <img src="https://mc-30acf3eb-3568-4f77-bd15-8645-cdn-endpoint.azureedge.net/-/media/project/extreme/design/logo.svg?rev=a03fb9205bec4cadbe609068bb3de2e6"width="106.75" height="28" background-color: "#FFFFFF" />
   
 </div>
 
