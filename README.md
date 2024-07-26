@@ -1,22 +1,39 @@
 ### Olá, Tudo Bem? Eu sou o Anderson Carvalho! :raising_hand_man:
 Analista de rede com mais de 10 anos de experiência em otimizar a infraestrutura de rede para garantir a disponibilidade, segurança e desempenho das operações. Sou formado em Gestão de Tecnologia e Pós graduado em Engenharia de Redes e Segurança.
 Atualmente estou trabalhando com foco em monitoramento, observabilidade e desenvolvimento de dashboards no Grafana.
-####
+#### Acesse meu Linkedin clicando no link abaixo para saber mais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-santos-carvalho/)
-### Possuo Conhecimento em :hammer_and_wrench::
+### Possuo Conhecimento em :toolbox::
 <div style="display: inline_block;">
+  <!---WINDOWS SERVER--->
   <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <!---LINUX--->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <!---ZABBIX--->
   <img src="https://assets.zabbix.com/dist/images/logo.fd87efa6da9bed3fd8c9.svg"width="106.75" height="28" />
+  <!---GRAFANA--->
   <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <!--EXTREME NETWORKS-->
   <img src="https://th.bing.com/th/id/OIP.UMM5E20nUIv9yroXdZP4cQHaBz?rs=1&pid=ImgDetMain"width="106.75" height="28" />
+  <!--CISCO-->
+  <img src="https://bonvoyaged.com/wp-content/uploads/2023/01/LogoMeanings2.jpg"width="106.75" height="28" />
+  <!--ARUBA-->
+  <img src="https://www.semic.es/sites/default/files/unnamed_1.jpg"width="106.75" height="28" />
+  <!--VEEAM-->
+  <img src="https://www.securitynewspaper.com/snews-up/2018/09/veeam.jpg"width="106.75" height="28" />
 </div>
 
+### Minhas Certificações :man_student::
+<div style="display: inline_block;">
+ <a href="https://www.credly.com/badges/5759bdf4-bb2b-4815-93de-a06cf874cc80/linked_in_profile" target="_blank"> 
+   <img style="max-width: 10px;"  src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="100" height="100"/> 
+ </a>
+</div>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonsancar&show_icons=true&theme=chartreuse-dark)
 
-### Tecnologias que eu uso no meu dia.
+### Tecnologias que eu uso no meu dia  :hammer_and_wrench:.
 <div style="display: inline_block;"><br/>
   <img src="https://assets.zabbix.com/dist/images/logo.fd87efa6da9bed3fd8c9.svg"width="106.75" height="28" />
   <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
