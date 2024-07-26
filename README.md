@@ -1,6 +1,6 @@
 ### Olá, Tudo Bem? Eu sou o Anderson Carvalho! :raising_hand_man:
 Analista de rede com mais de 10 anos de experiência em otimizar a infraestrutura de rede para garantir a disponibilidade, segurança e desempenho das operações. Sou formado em Gestão de Tecnologia e Pós graduado em Engenharia de Redes e Segurança.
-
+Atualmente estou trabalhando com foco em monitoramento, observabilidade e desenvolvimento de dashboards no Grafana.
 ### Possuo Conhecimento em :hammer_and_wrench::
 <div style="display: inline_block;"><br/>
   <img src"https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
