@@ -28,7 +28,7 @@ Atualmente estou trabalhando com foco em monitoramento, observabilidade e desenv
      <a href="https://www.credly.com/badges/5759bdf4-bb2b-4815-93de-a06cf874cc80/linked_in_profile" target="_blank"> 
       <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="100" height="100"/> 
      </a>
-     <a href="https://www.credly.com/badges/9ea37c88-8cdb-4f35-bca8-3fc975a15d19" target="_blank"> 
+     <a style="none" href="https://www.credly.com/badges/9ea37c88-8cdb-4f35-bca8-3fc975a15d19" target="_blank"> 
     <img  src="https://images.credly.com/size/680x680/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" width="100" height="100"/> 
      </a>
      <a href="https://www.credly.com/badges/a12c30d1-e4d2-493b-899a-2e4d983b73ef" target="_blank"> 
