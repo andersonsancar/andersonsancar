@@ -1,5 +1,11 @@
 ### Olá, Tudo Bem? Eu sou o Anderson Carvalho! :raising_hand_man:
-𝐚𝐧𝐚𝐥𝐢𝐬𝐭𝐚 𝐝𝐞 𝐫𝐞𝐝𝐞 com mais de 10 anos de experiência em otimizar a infraestrutura de rede para garantir a disponibilidade, segurança e desempenho das operações. Sou formado em Gestão de Tecnologia pela Faculdade Pan Amazônica e
+Analista de rede com mais de 10 anos de experiência em otimizar a infraestrutura de rede para garantir a disponibilidade, segurança e desempenho das operações. Sou formado em Gestão de Tecnologia e Pós graduado em Engenharia de Redes e Segurança.
+
+### Possuo Conhecimento em :hammer_and_wrench::
+<div style="display: inline_block;"><br/>
+  <img src"https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-santos-carvalho/)
 
